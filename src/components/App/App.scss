@@ -1,0 +1,13 @@
+@use '@scssVariables' as v;
+
+.container {
+  background-color: v.$clr-secondary;
+  margin: auto;
+  width: 70rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.loader {
+  font-size: 2rem;
+}

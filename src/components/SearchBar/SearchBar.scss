@@ -1,0 +1,8 @@
+@use 'src/styles/variables';
+
+.search-bar {
+  &-logoContainer {
+    display: flex;
+    justify-content: center;
+  }
+}
