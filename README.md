@@ -4,6 +4,10 @@
 
 Une application React qui permet de rechercher des repositories sur GitHub via l'API officielle. Les résultats sont affichés sous forme de cartes avec un **indicateur de chargement** et un système de **debouncing** pour limiter les appels API.
 
+## Aperçu
+
+![Description de l'image](public/png-react-github-repo-simulator.png)
+
 ## Prérequis
 
 Commencez par installer express, et toute autre dépendance nécessaire avec npm
